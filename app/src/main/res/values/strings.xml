@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RPI_Practice_8</string>
+    <string name="ET_RightBorder">Right border</string>
+    <string name="ET_LeftBorder">Left border</string>
+    <string name="Btn_Find">Найти число</string>
+    <string name="Btn_More">Да</string>
+    <string name="Btn_Less">Нет</string>
+</resources>
